@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>{{config('app.name')}}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Felix Website">
+  <meta name="description" content="Daarul Arqam Primary and secondary School">
   <meta name="author" content="Felix Mgeni">
   <meta name="keywords" content="">
   <link rel="icon" href="{{url('/')}}/assets/img/icon.png">
