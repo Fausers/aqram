@@ -8,7 +8,7 @@
   <meta name="description" content="Felix Website">
   <meta name="author" content="Felix Mgeni">
   <meta name="keywords" content="">
-  <link rel="icon" href="{{url('/')}}/assets/img/favicon.png">
+  <link rel="icon" href="{{url('/')}}/assets/img/icon.png">
   <link rel="stylesheet" type="text/css" href="{{url('/')}}/assets/css/main.min.css">
   <link rel="stylesheet" type="text/css" href="{{url('/')}}/assets/css/button.min.css">
 </head>
@@ -98,168 +98,44 @@
         <!--about-rw end-->
         <div class="abt-img">
           <ul class="masonary">
-            <li class="width1 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery1.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery1.jpg" alt=""></a></li>
-            <li class="width2 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery2.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery2.jpg" alt=""></a></li>
-            <li class="width3 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery4.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery4.jpg" alt=""></a></li>
-            <li class="width4 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery6.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery6.jpg" alt=""></a></li>
-            <li class="width5 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery8.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery8.jpg" alt=""></a></li>
-            <li class="width6 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery7.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery7.jpg" alt=""></a></li>
-            <li class="width7 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery9.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery9.jpg" alt=""></a></li>
-            <li class="width8 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery10.jpg"
-                data-group="set1" title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery10.jpg" alt=""></a></li>
-            <li class="width9 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery3.jpg" data-group="set1"
-                title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery3.jpg" alt=""></a></li>
-            <li class="width10 wow zoomIn" data-wow-duration="1000ms"><a href="{{url('/')}}/assets/img/gallery5.jpg"
-                data-group="set1" title="" class="html5lightbox"><img src="{{url('/')}}/assets/img/gallery5.jpg" alt=""></a></li>
+
+            <li class="width1 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (1).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (1).jpeg" alt=""></a></li>
+            <li class="width2 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (2).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (2).jpeg" alt=""></a></li>
+            <li class="width3 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (3).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (3).jpeg" alt=""></a></li>
+            <li class="width4 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (4).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (4).jpeg" alt=""></a></li>
+            <li class="width5 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (5).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (5).jpeg" alt=""></a></li>
+            <li class="width6 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (6).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (6).jpeg" alt=""></a></li>
+            <li class="width7 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (7).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (7).jpeg" alt=""></a></li>
+            <li class="width8 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (8).jpeg"
+                data-group="set1" title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (8).jpeg" alt=""></a></li>
+            <li class="width9 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (9).jpeg" data-group="set1"
+                title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (9).jpeg" alt=""></a></li>
+            <li class="width10 wow zoomIn" data-wow-duration="1000ms">
+                <a href="{{url('/')}}/assets/school/img (10).jpeg"
+                data-group="set1" title="" class="html5lightbox"><img src="{{url('/')}}/assets/school/img (10).jpeg" alt=""></a></li>
+
           </ul>
         </div><!-- abt-img end-->
       </div>
     </section>
     <!--about-us-section end-->
-    <section class="classes-section">
-      <div class="container">
-        <div class="sec-title">
-          <h2>Our Classes</h2>
-          <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet. Nulla
-            sagittis faucibus lacus</p>
-        </div>
-        <!--sec-title end-->
-        <div class="classes-sec">
-          <div class="row classes-carousel">
-            <div class="col-lg-3">
-              <div class="classes-col wow fadeInUp" data-wow-duration="1000ms">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img1.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Basic English Speaking and Grammar</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Amanda Kern</a>
-                    </div><strong class="price">$45</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img2.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Natural Sciences & Mathematics Courses</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Gypsy Hardinge</a>
-                    </div><strong class="price">$67</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img3.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Environmental Studies & Earth Sciences</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Margje Jutten</a>
-                    </div><strong class="price">$89</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img4.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Hospitality, Leisure & Sports Courses</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Hubert Franck</a>
-                    </div><strong class="price">$67</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img1.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Basic English Speaking and Grammar</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Amanda Kern</a>
-                    </div><strong class="price">$45</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img2.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Natural Sciences & Mathematics Courses</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Gypsy Hardinge</a>
-                    </div><strong class="price">$67</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img3.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Environmental Studies & Earth Sciences</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Margje Jutten</a>
-                    </div><strong class="price">$89</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-            <div class="col-lg-3">
-              <div class="classes-col">
-                <div class="class-thumb"><img src="{{url('/')}}/assets/img/img4.jpg" alt="" class="w-100"> <a href="contacts.html"
-                    title="" class="crt-btn"><img src="{{url('/')}}/assets/img/icon10.png" alt=""></a></div>
-                <div class="class-info">
-                  <h3><a href="class-single.html" title="">Hospitality, Leisure & Sports Courses</a></h3>
-                  <span>Mon-Fri</span> <span>10 AM - 12 AM</span>
-                  <div class="d-flex flex-wrap align-items-center">
-                    <div class="posted-by"><img src="{{url('/')}}/assets/img/ico.png" alt=""> <a href="#" title="">Hubert Franck</a>
-                    </div><strong class="price">$67</strong>
-                  </div>
-                </div>
-              </div>
-              <!--classes-col end-->
-            </div>
-          </div>
-          <div class="lnk-dv text-center"><a href="classes.html" title="" class="btn-default">Classes <i
-                class="fa fa-long-arrow-alt-right"></i></a></div>
-        </div>
-        <!--classes-sec end-->
-      </div>
-    </section>
+
     <!--classes-section end-->
     <section class="teachers-section">
       <div class="container">
@@ -532,82 +408,7 @@
       </div>
     </section>
     <!--newsletter-sec end-->
-    <footer>
-      <div class="container">
-        <div class="top-footer">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-6">
-              <div class="widget widget-about"><img src="{{url('/')}}/assets/img/logo.png" alt="">
-                <p>Vivamus porta efficitur nibh nec convallis. Vestibulum egestas eleifend justo. Ut tellus ipsum,
-                  accumsan</p>
-              </div>
-              <!--widget-about end-->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-              <div class="widget widget-contact">
-                <ul class="contact-add">
-                  <li>
-                    <div class="contact-info"><img src="{{url('/')}}/assets/img/icon1.png" alt="">
-                      <div class="contact-tt">
-                        <h4>Call</h4><span>+2 342 5446 67</span>
-                      </div>
-                    </div>
-                    <!--contact-info end-->
-                  </li>
-                  <li>
-                    <div class="contact-info"><img src="{{url('/')}}/assets/img/icon2.png" alt="">
-                      <div class="contact-tt">
-                        <h4>Work Time</h4><span>Mon - Fri 8 AM - 5 PM</span>
-                      </div>
-                    </div>
-                    <!--contact-info end-->
-                  </li>
-                  <li>
-                    <div class="contact-info"><img src="{{url('/')}}/assets/img/icon3.png" alt="">
-                      <div class="contact-tt">
-                        <h4>Address</h4><span>Franklin St, Greenpoint Ave</span>
-                      </div>
-                    </div>
-                    <!--contact-info end-->
-                  </li>
-                </ul>
-              </div>
-              <!--widget-contact end-->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-              <div class="widget widget-links">
-                <h3 class="widget-title">Quick Links</h3>
-                <ul>
-                  <li><a href="about.html" title="">About Us</a></li>
-                  <li><a href="classes.html" title="">Our Classes</a></li>
-                  <li><a href="teachers.html" title="">School Teachers</a></li>
-                  <li><a href="events.html" title="">Recent Events</a></li>
-                  <li><a href="blog.html" title="">Our News</a></li>
-                  <li><a href="schedule.html" title="">Schedule</a></li>
-                </ul>
-              </div>
-              <!--widget-links end-->
-            </div>
-          </div>
-        </div>
-        <!--top-footer end-->
-        <div class="bottom-footer">
-          <div class="row align-items-center">
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <p>© Copyrights {{date('Y')}} {{config('app.name')}} All rights reserved</p>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <ul class="social-links">
-                <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#" title=""><i class="fab fa-linkedin-in"></i></a></li>
-                <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!--bottom-footer end-->
-      </div>
-    </footer>
+      @include('partials.footer')
     <!--footer end-->
   </div>
   <script src="{{url('/')}}/assets/js/bundle.min.js"></script>
