@@ -46,8 +46,8 @@
                   </div>
                   <h3><a href="/event" title="">Parents Meeting</a></h3>
                   <div class="d-flex flex-wrap">
-                    <div class="posted-by"><img src="assets/img/ico2.png" alt=""> <a href="#" title="">Mr.
-                        Abdallah</a></div><span class="locat"><img src="assets/img/loct.png" alt="">School Hall</span>
+                    <div class="posted-by"><img src="assets/img/ico2.png" alt=""> <a href="#" title="">Miss.
+                        Fatma</a></div><span class="locat"><img src="assets/img/loct.png" alt="">School Hall</span>
                   </div>
                 </div>
                 <!--course-card end-->
