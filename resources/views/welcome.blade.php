@@ -149,7 +149,7 @@
           <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
               <div class="teacher">
-                <div class="teacher-img"><img src="{{url('/')}}/assets/img/img5.jpg" alt="" class="w-100">
+                <div class="teacher-img"><img src="{{url('/')}}/assets/school/teacher/teacher1.jpg" alt="" class="w-100">
                   <div class="sc-div">
                     <ul>
                       <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
@@ -166,7 +166,7 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
               <div class="teacher">
-                <div class="teacher-img"><img src="{{url('/')}}/assets/img/img6.jpg" alt="" class="w-100">
+                <div class="teacher-img"><img src="{{url('/')}}/assets/school/teacher/2.jpg" alt="" class="w-100">
                   <div class="sc-div">
                     <ul>
                       <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
@@ -183,7 +183,7 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
               <div class="teacher">
-                <div class="teacher-img"><img src="{{url('/')}}/assets/img/img7.jpg" alt="" class="w-100">
+                <div class="teacher-img"><img src="{{url('/')}}/assets/school/teacher/3.jpg" alt="" class="w-100">
                   <div class="sc-div">
                     <ul>
                       <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
@@ -200,7 +200,7 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 full-wdth">
               <div class="teacher">
-                <div class="teacher-img"><img src="{{url('/')}}/assets/img/img8.jpg" alt="" class="w-100">
+                <div class="teacher-img"><img src="{{url('/')}}/assets/school/teacher/4.jpg" alt="" class="w-100">
                   <div class="sc-div">
                     <ul>
                       <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
@@ -226,13 +226,13 @@
           <div class="col-lg-6">
             <div class="find-course">
               <div class="sec-title">
-                <h2>Find Your Course</h2>
+                <h2>Join Us Today</h2>
                 <p>ullam fringilla ipsum sed enim scelerisque, ac porttitor libero egestas. Donec iaculis nisi eget
                   bibendum efficitur. Lorem ipsum dolor sit</p>
-                <h3><img src="{{url('/')}}/assets/img/icon11.png" alt="">Call: <strong>+2 342 5446 67</strong></h3>
+                <h3><img src="{{url('/')}}/assets/img/icon11.png" alt="">Call: <strong>+255 785 008 133</strong></h3>
               </div>
               <!--sec-title end-->
-              <div class="course-img"><img src="{{url('/')}}/assets/img/course-img.png" alt=""></div>
+              <div class="course-img"><img src="{{url('/')}}/assets/img/1.png" alt=""></div>
               <!--course-img end-->
             </div>
             <!--find-course end-->
@@ -303,7 +303,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
               <div class="blog-post">
-                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/img/blog1.jpg" alt="" class="w-100"> <span
+                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/karate.jpeg" alt="" class="w-100"> <span
                     class="category">English</span></div>
                 <div class="blog-info">
                   <ul class="meta">
@@ -321,7 +321,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
               <div class="blog-post">
-                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/img/blog2.jpg" alt="" class="w-100"> <span
+                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/lab.jpeg" alt="" class="w-100"> <span
                     class="category">English</span></div>
                 <div class="blog-info">
                   <ul class="meta">
@@ -339,7 +339,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
               <div class="blog-post">
-                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/img/blog3.jpg" alt="" class="w-100"> <span
+                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/swing.jpeg" alt="" class="w-100"> <span
                     class="category">English</span></div>
                 <div class="blog-info">
                   <ul class="meta">

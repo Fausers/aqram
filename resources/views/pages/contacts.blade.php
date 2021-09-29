@@ -62,7 +62,7 @@
                     <div class="d-flex flex-wrap">
                       <div class="icon-v"><img src="assets/img/icon15.png" alt=""></div>
                       <div class="dd-cont">
-                        <h4>Call</h4><span>+2 342 5446 67</span>
+                        <h4>Call</h4><span>+255 785 008 133</span>
                       </div>
                     </div>
                   </li>
@@ -78,7 +78,7 @@
                     <div class="d-flex flex-wrap">
                       <div class="icon-v"><img src="assets/img/icon17.png" alt=""></div>
                       <div class="dd-cont">
-                        <h4>Address</h4><span>Franklin St, Greenpoint Ave</span>
+                        <h4>Address</h4><span>Kigamboni, Dar es salaam</span>
                       </div>
                     </div>
                   </li>
