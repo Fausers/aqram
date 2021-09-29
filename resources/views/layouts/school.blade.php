@@ -8,7 +8,7 @@
     <meta name="description" content="Daarul - Website">
     <meta name="author" content="Felix">
     <meta name="keywords" content="">
-    <link rel="icon" href="{{url('/')}}/assets/img/favicon.png">
+    <link rel="icon" href="{{url('/')}}/assets/img/icon.png">
     <link rel="stylesheet" type="text/css" href="{{url('/')}}/assets/css/main.min.css">
     <link rel="stylesheet" type="text/css" href="{{url('/')}}/assets/css/button.min.css">
 

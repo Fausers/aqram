@@ -40,4 +40,14 @@ class WelcomeController extends Controller
         return view('pages.teacher');
     }
 
+    public function events()
+    {
+        return view('pages.events');
+    }
+
+    public function event()
+    {
+        return view('pages.event');
+    }
+
 }
