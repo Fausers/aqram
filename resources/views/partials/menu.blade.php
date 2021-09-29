@@ -1,3 +1,4 @@
-<li><a class="active" href="index.html" title="">Home</a></li>
+<li><a class="active" href="/" title="">Home</a></li>
 
-<li><a href="contacts.html" title="">Contacts</a></li>
+<li><a href="/about" title="">About</a></li>
+<li><a href="/contacts" title="">Contacts</a></li>
