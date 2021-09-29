@@ -1,7 +1,7 @@
 <header>
         <div class="container">
           <div class="header-content d-flex flex-wrap align-items-center">
-            <div class="logo"><a href="index.html" title=""><img src="{{url('/')}}/assets/img/logo.png" alt=""
+            <div class="logo"><a href="/" title=""><img src="{{url('/')}}/assets/img/logo.png" alt=""
                   srcset="{{url('/')}}/assets/img/01_Logo_2x.png 2x"></a></div>
             <!--logo end-->
             <ul class="contact-add d-flex flex-wrap">
