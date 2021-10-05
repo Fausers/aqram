@@ -57,7 +57,7 @@
                   <div class="d-flex flex-wrap align-items-center">
                     <ul class="course-meta">
                       <li><img src="assets/img/icon12.png" alt=""> 29/10/2021</li>
-                      <li>11AM to 15PM</li>
+                      <li>11AM to 15PM</li
                     </ul>
                   </div>
                   <h3><a href="/event" title="">Museum Tour</a></h3>

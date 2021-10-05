@@ -62,7 +62,9 @@
                     <div class="d-flex flex-wrap">
                       <div class="icon-v"><img src="assets/img/icon15.png" alt=""></div>
                       <div class="dd-cont">
-                        <h4>Call</h4><span>+255 785 008 133</span>
+                        <h4>Call</h4>
+                          <span>+255 659 190 208</span>
+                          <span>+255 654 204 781</span>
                       </div>
                     </div>
                   </li>
@@ -79,6 +81,15 @@
                       <div class="icon-v"><img src="assets/img/icon17.png" alt=""></div>
                       <div class="dd-cont">
                         <h4>Address</h4><span>Kigamboni, Dar es salaam</span>
+                      </div>
+                    </div>
+                  </li>
+                    <li>
+                    <div class="d-flex flex-wrap">
+                      <div class="icon-v"><img src="assets/img/ro2.png" alt=""></div>
+                      <div class="dd-cont">
+                        <h4>Email</h4>
+                          <a href="mailto:darqamschool@gmail.com" ><span>darqamschool@gmail.com</span></a>
                       </div>
                     </div>
                   </li>

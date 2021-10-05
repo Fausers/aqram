@@ -4,8 +4,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
               <div class="widget widget-about"><img src="{{url('/')}}/assets/img/logo.png" alt="">
-                <p>Vivamus porta efficitur nibh nec convallis. Vestibulum egestas eleifend justo. Ut tellus ipsum,
-                  accumsan</p>
+                <p>Education is a once in a lifetime opportunity to open children’s hearts and minds to the unbelievable wonder of the universe</p>
               </div>
               <!--widget-about end-->
             </div>
@@ -15,7 +14,7 @@
                   <li>
                     <div class="contact-info"><img src="{{url('/')}}/assets/img/icon1.png" alt="">
                       <div class="contact-tt">
-                        <h4>Call</h4><span>+255 785 008 133</span>
+                        <h4>Call</h4><span>+255 659 190 208, +255 654 204 781</span>
                       </div>
                     </div>
                     <!--contact-info end-->
