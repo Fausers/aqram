@@ -8,7 +8,9 @@
               <li>
                 <div class="contact-info"><img src="{{url('/')}}/assets/img/icon1.png" alt="">
                   <div class="contact-tt">
-                    <h4>Call</h4><span>+255 785 008 133</span>
+                      <h4>Call</h4><span><a href="tel:+255659190208"> +255 659 190 208</a>
+{{--                          <br> <a href="tel:+255 654 204 781"> +255 654 204 781 </a>--}}
+                      </span>
                   </div>
                 </div>
                 <!--contact-info end-->

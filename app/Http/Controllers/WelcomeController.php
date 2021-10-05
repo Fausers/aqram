@@ -35,6 +35,11 @@ class WelcomeController extends Controller
         return view('pages.teachers');
     }
 
+    public function administration()
+    {
+        return view('pages.administration');
+    }
+
     public function teacher()
     {
         return view('pages.teacher');
@@ -48,6 +53,11 @@ class WelcomeController extends Controller
     public function event()
     {
         return view('pages.event');
+    }
+
+    public function admission()
+    {
+        return view('pages.admission');
     }
 
 }

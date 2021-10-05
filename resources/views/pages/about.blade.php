@@ -22,10 +22,18 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="section-title">
-                            <h2>Welcome to<br><span>{{config('app.name')}}</span> School</h2>
-                            <p class="mw-100">Morbi vel augue et metus pellentesque lacinia eu non odio. Sed id purus urna. Maecenas
-                                ultrices ligula a nisi dictum tristique. Suspendisse potenti. Curabitur egestas ultrices sem, eu
-                                vestibulum leo sagittis et.</p><a href="/events" title="" class="btn-default">Classes <i
+                            <h2>Welcome to<br><span>{{config('app.name')}}</span> Arqam Islamic Schools</h2>
+                            <p class="mw-100">
+                                DAARUL ARQAM ISLAMIC SCHOOLS is located at somangira ward in Kigamboni municipality,
+                                Dar es salaam city. In one compound of  33 hectares,
+                                there is a division of nursery, primary and secondary section
+                                <br>
+                                <br>
+                                DAARUL ARQAM ISLAMIC SCHOOLS was founded in 2013 as a full-time private school, owned and operated by Shawwal Abdul-Aziz Msami, serving the Muslim community in the city of Dar-es-salaam and beyond offering nursery, primary and secondary education service.  Since its inception, DAARUL ARQAM ISLAMIC SCHOOLS has consistently grown year after year and has gained a reputation of becoming a leading Muslim educational institute which aims to instill an Islamic morale and a genuine desire of learning in each of its students.
+                                <br>
+                                <br>
+                                DAARUL ARQAM ISLAMIC SCHOOLS provides an Islamic learning environment with a commitment of using modern day teaching pedagogy to cultivate an advanced and comprehensive academic program; fully compliant with the NECTA curriculum of studies.  .  It is our aim to empower our students by cultivating their interests and honing their academic skills.
+                            </p><a href="/events" title="" class="btn-default">Classes <i
                                     class="fa fa-long-arrow-alt-right"></i></a>
                         </div>
                         <!--section-title end-->
@@ -41,15 +49,18 @@
                         <!--avt-img end-->
                     </div>
                     <div class="col-lg-6 col-md-6">
-                        <div class="act-inffo"><span>ABOUT US</span>
+                        <div class="act-inffo">
+                            <span>ABOUT US</span>
+                            <br>
                             <h2>Our Mission</h2>
-                            <p>Praesent rhoncus justo erat, sed sollicitudin arcu malesuada vel. Etiam scelerisque justo ut purus
-                                luctus ullamcorper. Vivamus vitae elit ligula. Fusce eu rutrum nisl.</p>
-                            <ul>
-                                <li>Etiam ante nisl, maximus vitae sem non, dignissim</li>
-                                <li>Donec blandit, sapien eu porttitor blandit</li>
-                                <li>Sed at urna at massa viverra feugiat non</li>
-                            </ul>
+                            <p>
+                                To provide high standard education with special consideration to human bounties and producing the candidates to the expectation of their parents, community and the nation, equipped with good moral values who appreciate the purpose of their life
+                            </p>
+{{--                            <ul>--}}
+{{--                                <li>Etiam ante nisl, maximus vitae sem non, dignissim</li>--}}
+{{--                                <li>Donec blandit, sapien eu porttitor blandit</li>--}}
+{{--                                <li>Sed at urna at massa viverra feugiat non</li>--}}
+{{--                            </ul>--}}
                         </div>
                         <!--act-inffo end-->
                     </div>
@@ -64,10 +75,11 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="section-title">
-                        <h2>Our Benefits</h2>
-                        <p>Praesent rhoncus justo erat, sed sollicitudin arcu malesuada vel. Etiam scelerisque justo ut purus
-                            luctus ullamcorper. Vivamus vitae elit ligula. Fusce eu rutrum nisl. Vestibulum ut sagittis neque</p><a
-                            href="/contacts" title="" class="btn-default">Contacts <i
+                        <h2>Our Vision </h2>
+                        <p>
+                            To become a center that provides education from nursery to higher institution.
+                        </p>
+                        <a href="/contacts" title="" class="btn-default">Contacts <i
                                 class="fa fa-long-arrow-alt-right"></i></a>
                     </div>
                     <!--section-title end-->
@@ -99,8 +111,8 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div class="abt-col"><img src="assets/img/icon8.png" alt="">
-                                        <h3>Best Programm</h3>
-                                        <p>Etiam risus neque, volutpat vel laoreet a, finibus volutpat non ligula</p>
+                                        <h3>Our Motto</h3>
+                                        <p>QURAN, TAALUMA NA MAADILI</p>
                                     </div>
                                     <!--abt-col end-->
                                 </div>

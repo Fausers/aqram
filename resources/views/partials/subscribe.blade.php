@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div class="newsz-ltr-text">
-                            <h2>Join us<br>and stay tuned!</h2><a href="/contacts" title="" class="btn-default">Join Us <i
+                            <h2>Join us<br>Today!</h2><a href="/contacts" title="" class="btn-default">Join Us <i
                                     class="fa fa-long-arrow-alt-right"></i></a>
                         </div>
                         <!--newsz-ltr-text end-->
