@@ -25,6 +25,7 @@ Route::group(['middleware' => ['web', 'checkblocked']], function () {
     Route::get('/admission', 'App\Http\Controllers\WelcomeController@admission')->name('admission');
     Route::get('/events', 'App\Http\Controllers\WelcomeController@events')->name('events');
     Route::get('/event', 'App\Http\Controllers\WelcomeController@event')->name('event');
+    Route::get('/academic', 'App\Http\Controllers\WelcomeController@academic')->name('academic');
 
     Route::get('/contacts', 'App\Http\Controllers\WelcomeController@contacts')->name('contacts');
     Route::get('/terms', 'App\Http\Controllers\TermsController@terms')->name('terms');

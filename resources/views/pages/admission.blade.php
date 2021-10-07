@@ -121,12 +121,12 @@
                 <h3 class="widget-title">Downloads</h3>
                 <ul>
                   <li>
-                      <a href="#" title=""><i class="fa fa-file-pdf" style="color: mediumvioletred"></i>
+                      <a target="_blank" href="{{url('/')}}/files/ADMISSION.pdf" title=""><i class="fa fa-file-pdf" style="color: mediumvioletred"></i>
                           Admission Form</a> <span>5 Pages</span>
                   </li>
                     <li>
-                      <a href="#" title=""><i class="fa fa-file-pdf" style="color: mediumvioletred"></i>
-                          Almanic</a> <span>5 Pages</span>
+                      <a target="_blank" href="{{url('/')}}/files/ADMISSION.pdf" title=""><i class="fa fa-file-pdf" style="color: mediumvioletred"></i>
+                          Almanic</a> <span>2 Pages</span>
                   </li>
                 </ul>
               </div>

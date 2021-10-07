@@ -60,4 +60,9 @@ class WelcomeController extends Controller
         return view('pages.admission');
     }
 
+    public function academic()
+    {
+        return view('pages.academic');
+    }
+
 }

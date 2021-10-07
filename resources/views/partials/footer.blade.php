@@ -43,10 +43,7 @@
               <div class="widget widget-links">
                 <h3 class="widget-title">Quick Links</h3>
                 <ul>
-                  <li><a href="/about" title="">About Us</a></li>
-                  <li><a href="/teachers" title="">School Teachers</a></li>
-                  <li><a href="/events" title="">Recent Events</a></li>
-                  <li><a href="/contacts" title="">Contacts</a></li>
+                    @include('partials.menu')
                 </ul>
               </div>
               <!--widget-links end-->
