@@ -29,12 +29,10 @@
           <div class="row align-items-center">
             <div class="col-lg-7 col-md-7">
               <div class="banner-text wow fadeInLeft" data-wow-duration="1000ms">
-                <h2>The Smarter Way to Learn <span>Anything</span></h2>
-                <p>Mauris malesuada enim eget blandit gravida. Duis hendrerit cursus turpis, id mollis est rutrum nec.
-                  Sed interdum nisi id libero tincidunt, sit amet vestibulum tortor porttitor. Cras ligula lacus,
-                  ullamcorper sed</p>
-                <form class="search-form"><input type="text" name="search" placeholder="Search Class"> <button><i
-                      class="fa fa-search"></i></button></form>
+                <h2>DAARUL ARQAM ISLAMIC SCHOOLS  <span class="small">Quran, Taaluma na Maadili</span></h2>
+                <p>DAARUL ARQAM ISLAMIC SCHOOLS provides an Islamic learning environment with a commitment of using modern day teaching pedagogy to cultivate an advanced and comprehensive academic program; fully compliant with the NECTA curriculum of studies.  .  It is our aim to empower our students by cultivating their interests and honing their academic skills. </p>
+{{--                <form class="search-form"><input type="text" name="search" placeholder="Search Class"> <button><i--}}
+{{--                      class="fa fa-search"></i></button></form>--}}
               </div>
             </div>
             <div class="col-lg-5 col-md-5">
@@ -53,8 +51,7 @@
     <section class="about-us-section">
       <div class="container">
         <div class="section-title text-center">
-          <h2>Welcome to <span>{{config('app.name')}}</span></h2>
-          <p>Nunc consectetur ex nunc, id porttitor leo semper eget. Vivamus interdum, mauris quis cursus sodales, urn
+          <h2>Welcome to <span>DAARUL ARQAM ISLAMIC SCHOOLS </span></h2>
           </p>
         </div>
         <!--section-title end-->
@@ -64,7 +61,7 @@
               <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="abt-col wow fadeInUp" data-wow-duration="1000ms"><img src="{{url('/')}}/assets/img/icon5.png" alt="">
                   <h3>Awesome Teachers</h3>
-                  <p>Vivamus interdum, mauris interdum quis curdum sodales</p>
+{{--                  <p>Vivamus interdum, mauris interdum quis curdum sodales</p>--}}
                 </div>
                 <!--abt-col end-->
               </div>
@@ -72,15 +69,15 @@
                 <div class="abt-col wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"><img
                     src="{{url('/')}}/assets/img/icon7.png" alt="">
                   <h3>Global Certificate</h3>
-                  <p>Pelleneget tespharetra que fringilla egugue id eget pharetra</p>
+{{--                  <p>Pelleneget tespharetra que fringilla egugue id eget pharetra</p>--}}
                 </div>
                 <!--abt-col end-->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="abt-col wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms"><img
                     src="{{url('/')}}/assets/img/icon8.png" alt="">
-                  <h3>Best Programm</h3>
-                  <p>Etiam risus neque, volutpat vel laoreet a, finibus volutpat non</p>
+                  <h3>Quran Program</h3>
+{{--                  <p>Etiam risus neque, volutpat vel laoreet a, finibus volutpat non</p>--}}
                 </div>
                 <!--abt-col end-->
               </div>
@@ -88,7 +85,7 @@
                 <div class="abt-col wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms"><img
                     src="{{url('/')}}/assets/img/icon9.png" alt="">
                   <h3>Student Support Service</h3>
-                  <p>Mauris nec mi fequis ugiat, cursus tortor nec, pharetra tellus</p>
+{{--                  <p>Mauris nec mi fequis ugiat, cursus tortor nec, pharetra tellus</p>--}}
                 </div>
                 <!--abt-col end-->
               </div>
@@ -227,9 +224,8 @@
             <div class="find-course">
               <div class="sec-title">
                 <h2>Join Us Today</h2>
-                <p>ullam fringilla ipsum sed enim scelerisque, ac porttitor libero egestas. Donec iaculis nisi eget
-                  bibendum efficitur. Lorem ipsum dolor sit</p>
-                <h3><img src="{{url('/')}}/assets/img/icon11.png" alt="">Call: <strong>+255 654 204 781</strong></h3>
+                <p>As an Islamic Private School in Dar es salaam, DAARUL ARQAM ISLAMIC SCHOOLS welcomes applications from the parents of students who understand and support our mission and vision.</p>
+                <h3><img src="{{url('/')}}/assets/img/icon11.png" alt="">Call: <strong><a href="tel:+255 654 204 781"> +255 654 204 781</a></strong></h3>
               </div>
               <!--sec-title end-->
               <div class="course-img"><img src="{{url('/')}}/assets/img/1.png" alt=""></div>
@@ -291,75 +287,75 @@
       </div>
     </section>
     <!--course-section end-->
-    <section class="blog-section">
-      <div class="container">
-        <div class="section-title text-center">
-          <h2>Recent News</h2>
-          <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet. Nulla
-            sagittis faucibus lacusMorbi lorem sem, aliquet</p>
-        </div>
-        <!--section-title end-->
-        <div class="blog-posts">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-6">
-              <div class="blog-post">
-                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/karate.jpeg" alt="" class="w-100"> <span
-                    class="category">English</span></div>
-                <div class="blog-info">
-                  <ul class="meta">
-                    <li><a href="#" title="">17/09/2020</a></li>
-                    <li><a href="#" title="">by Admin</a></li>
-                    <li><img src="{{url('/')}}/assets/img/icon13.png" alt=""><a href="#" title="">Teachers,</a><a href="#" title="">
-                        School</a></li>
-                  </ul>
-                  <h3><a href="/event" title="">Campus clean workshop</a></h3>
-                  <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet
-                  </p><a href="/event" title="" class="read-more">Read <i class="fa fa-long-arrow-alt-right"></i></a>
-                </div>
-              </div>
-              <!--blog-post end-->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-              <div class="blog-post">
-                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/lab.jpeg" alt="" class="w-100"> <span
-                    class="category">English</span></div>
-                <div class="blog-info">
-                  <ul class="meta">
-                    <li><a href="#" title="">17/09/2020</a></li>
-                    <li><a href="#" title="">by Admin</a></li>
-                    <li><img src="{{url('/')}}/assets/img/icon13.png" alt=""><a href="#" title="">Teachers,</a><a href="#" title="">
-                        School</a></li>
-                  </ul>
-                  <h3><a href="/event" title="">Campus clean workshop</a></h3>
-                  <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet
-                  </p><a href="/event" title="" class="read-more">Read <i class="fa fa-long-arrow-alt-right"></i></a>
-                </div>
-              </div>
-              <!--blog-post end-->
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-              <div class="blog-post">
-                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/swing.jpeg" alt="" class="w-100"> <span
-                    class="category">English</span></div>
-                <div class="blog-info">
-                  <ul class="meta">
-                    <li><a href="#" title="">17/09/2020</a></li>
-                    <li><a href="#" title="">by Admin</a></li>
-                    <li><img src="{{url('/')}}/assets/img/icon13.png" alt=""><a href="#" title="">Teachers,</a><a href="#" title="">
-                        School</a></li>
-                  </ul>
-                  <h3><a href="/event" title="">Campus clean workshop</a></h3>
-                  <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet
-                  </p><a href="/event" title="" class="read-more">Read <i class="fa fa-long-arrow-alt-right"></i></a>
-                </div>
-              </div>
-              <!--blog-post end-->
-            </div>
-          </div>
-        </div>
-        <!--blog-posts end-->
-      </div>
-    </section>
+{{--    <section class="blog-section">--}}
+{{--      <div class="container">--}}
+{{--        <div class="section-title text-center">--}}
+{{--          <h2>Recent News</h2>--}}
+{{--          <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet. Nulla--}}
+{{--            sagittis faucibus lacusMorbi lorem sem, aliquet</p>--}}
+{{--        </div>--}}
+{{--        <!--section-title end-->--}}
+{{--        <div class="blog-posts">--}}
+{{--          <div class="row">--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-6">--}}
+{{--              <div class="blog-post">--}}
+{{--                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/karate.jpeg" alt="" class="w-100"> <span--}}
+{{--                    class="category">English</span></div>--}}
+{{--                <div class="blog-info">--}}
+{{--                  <ul class="meta">--}}
+{{--                    <li><a href="#" title="">17/09/2020</a></li>--}}
+{{--                    <li><a href="#" title="">by Admin</a></li>--}}
+{{--                    <li><img src="{{url('/')}}/assets/img/icon13.png" alt=""><a href="#" title="">Teachers,</a><a href="#" title="">--}}
+{{--                        School</a></li>--}}
+{{--                  </ul>--}}
+{{--                  <h3><a href="/event" title="">Campus clean workshop</a></h3>--}}
+{{--                  <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet--}}
+{{--                  </p><a href="/event" title="" class="read-more">Read <i class="fa fa-long-arrow-alt-right"></i></a>--}}
+{{--                </div>--}}
+{{--              </div>--}}
+{{--              <!--blog-post end-->--}}
+{{--            </div>--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-6">--}}
+{{--              <div class="blog-post">--}}
+{{--                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/lab.jpeg" alt="" class="w-100"> <span--}}
+{{--                    class="category">English</span></div>--}}
+{{--                <div class="blog-info">--}}
+{{--                  <ul class="meta">--}}
+{{--                    <li><a href="#" title="">17/09/2020</a></li>--}}
+{{--                    <li><a href="#" title="">by Admin</a></li>--}}
+{{--                    <li><img src="{{url('/')}}/assets/img/icon13.png" alt=""><a href="#" title="">Teachers,</a><a href="#" title="">--}}
+{{--                        School</a></li>--}}
+{{--                  </ul>--}}
+{{--                  <h3><a href="/event" title="">Campus clean workshop</a></h3>--}}
+{{--                  <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet--}}
+{{--                  </p><a href="/event" title="" class="read-more">Read <i class="fa fa-long-arrow-alt-right"></i></a>--}}
+{{--                </div>--}}
+{{--              </div>--}}
+{{--              <!--blog-post end-->--}}
+{{--            </div>--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-6">--}}
+{{--              <div class="blog-post">--}}
+{{--                <div class="blog-thumbnail"><img src="{{url('/')}}/assets/school/events/swing.jpeg" alt="" class="w-100"> <span--}}
+{{--                    class="category">English</span></div>--}}
+{{--                <div class="blog-info">--}}
+{{--                  <ul class="meta">--}}
+{{--                    <li><a href="#" title="">17/09/2020</a></li>--}}
+{{--                    <li><a href="#" title="">by Admin</a></li>--}}
+{{--                    <li><img src="{{url('/')}}/assets/img/icon13.png" alt=""><a href="#" title="">Teachers,</a><a href="#" title="">--}}
+{{--                        School</a></li>--}}
+{{--                  </ul>--}}
+{{--                  <h3><a href="/event" title="">Campus clean workshop</a></h3>--}}
+{{--                  <p>Nam mattis felis id sodales rutrum. Nulla ornare tristique mauris, a laoreet erat ornare sit amet--}}
+{{--                  </p><a href="/event" title="" class="read-more">Read <i class="fa fa-long-arrow-alt-right"></i></a>--}}
+{{--                </div>--}}
+{{--              </div>--}}
+{{--              <!--blog-post end-->--}}
+{{--            </div>--}}
+{{--          </div>--}}
+{{--        </div>--}}
+{{--        <!--blog-posts end-->--}}
+{{--      </div>--}}
+{{--    </section>--}}
     <!--blog-section end-->
     @include('partials.subscribe')
     <!--newsletter-sec end-->
