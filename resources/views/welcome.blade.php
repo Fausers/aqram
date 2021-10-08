@@ -45,7 +45,7 @@
         </div>
       </section>
       <!--main-banner end-->
-      <h2 class="main-title">{{config('app.name')}}</h2>
+      <h2 class="main-title">Daarul</h2>
     </div>
     <!--main-section end-->
     <section class="about-us-section">
