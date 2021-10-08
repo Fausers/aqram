@@ -242,7 +242,7 @@
                     <li>11AM to 15PM</li>
                   </ul>
                 </div>
-                <h3><a href="/event" title="">Serengeti Students Tour</a></h3>
+                <h3><a  title="">Serengeti Students Tour</a></h3>
                 <div class="d-flex flex-wrap">
                   <div class="posted-by"><img src="{{url('/')}}/assets/img/ico2.png" alt=""> <a href="#" title="">Amanda Kern</a>
                   </div><span class="locat"><img src="{{url('/')}}/assets/img/loct.png" alt="">Manyara</span>
@@ -256,7 +256,7 @@
                     <li>11AM to 15PM</li>
                   </ul>
                 </div>
-                <h3><a href="/event" title="">Parents Day</a></h3>
+                <h3><a  title="">Parents Day</a></h3>
                 <div class="d-flex flex-wrap">
                   <div class="posted-by"><img src="{{url('/')}}/assets/img/ico2.png" alt=""> <a href="#" title="">Cvita
                       Doleschall</a></div><span class="locat"><img src="{{url('/')}}/assets/img/loct.png" alt="">
@@ -271,7 +271,7 @@
                     <li>11AM to 15PM</li>
                   </ul>
                 </div>
-                <h3><a href="/event" title="">School Closing Day</a></h3>
+                <h3><a  title="">School Closing Day</a></h3>
                 <div class="d-flex flex-wrap">
                   <div class="posted-by"><img src="{{url('/')}}/assets/img/ico2.png" alt=""> <a href="#" title="">Helena Brauer</a>
                   </div><span class="locat"><img src="{{url('/')}}/assets/img/loct.png" alt="">School Assemble Ground</span>
@@ -279,8 +279,9 @@
               </div>
               <!--course-card end-->
             </div>
-            <!--courses-list end--> <a href="/events" title="" class="all-btn">All Events <i
-                class="fa fa-long-arrow-alt-right"></i></a>
+            <!--courses-list end-->
+{{--              <a href="/events" title="" class="all-btn">All Events <i--}}
+{{--                class="fa fa-long-arrow-alt-right"></i></a>--}}
             <div class="clearfix"></div>
           </div>
         </div>
